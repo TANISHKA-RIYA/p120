@@ -24,7 +24,12 @@ img{
     width: 50px;
     height: 50px;
   }
-  .test_images_and_result{
-    background-color: #ffffff;
+  .test_image_and_result{
+    background-color: #a287f2;
+    border-radius: 20px;
+  }
+  .miniresult{
+    background-color: pink;
+    border-radius: 20px;
   }
   
